@@ -1,12 +1,10 @@
 #!/bin/bash
-#the following line is dir creation "student_directory"
+#The following line is for creating a directory called "student_directory"
+mkdir students_directory
 
-mkdir student_directory
-#next line
+# In the directory above we are adding 3 text files using the following command
 
-touch student_directory/cohort1.txt
-
-touch student_directory/cohort2.txt
-
-touch student_directory/cohort3.txt
+touch students_directory/cohort-1.txt
+touch students_directory/cohort-2.txt
+touch students_directory/cohort-3.txt
 
