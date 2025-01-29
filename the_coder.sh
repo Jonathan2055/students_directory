@@ -13,3 +13,9 @@ echo "Samuel Chima" >> students_directory/cohort-1.txt
 echo "Arnould Mutara" >> students_directory/cohort-1.txt
 echo "Ngarambe David" >> students_directory/cohort-1.txt
 
+# Adding the names to the cohort 3 file
+echo "Jonathan Mugisha" >> students_directory/cohort-3.txt
+echo "Peter Micheal" >> students_directory/cohort-3.txt
+echo "Keza Lina" >> students_directory/cohort-3.txt
+
+
