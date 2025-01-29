@@ -9,5 +9,7 @@ touch students_directory/cohort-2.txt
 touch students_directory/cohort-3.txt
 
 # Adding my name to the cohort 2 file
-vi "Samuel Chima" students_directory/cohort-2.txt 
+echo  "Samuel Chima" >> students_directory/cohort-2.txt 
+echo "John Okafor" >> students_directory/cohort-2.txt
+echo "Jean Anne" >> students_directory/cohort-2.txt
 
