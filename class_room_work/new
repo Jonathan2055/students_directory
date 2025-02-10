@@ -1,0 +1,4 @@
+#!/bin/bash
+for ((i=4; i<=7; i++)) do 
+touch Cohort-$i
+done
